@@ -6,7 +6,7 @@ This project implements a deep learning model to solve CAPTCHA images using PyTo
 
 ## Requirements
 
-- Python 3.x
+- Python 3.9
 - PyTorch
 - torchvision
 - PIL
