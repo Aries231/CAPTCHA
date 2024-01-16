@@ -48,7 +48,7 @@ The model predicts the text in a given CAPTCHA image.
 
 Train the model using **`main`**.
 
-Perform inference using the **`Captcha class`**.
+Perform inference using the **`Captcha`** class.
 
 ## Note
 
